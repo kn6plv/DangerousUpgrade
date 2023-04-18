@@ -1,0 +1,9 @@
+Package: dangerousupgrade
+Version: 0.1
+Provides:
+Source: package/dangerousupgrade
+Section: misc
+Priority: optional
+Maintainer: Tim Wilkinson (KN6PLV)
+Architecture: all
+Description: Disable all the checks when upgrading
