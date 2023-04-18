@@ -1,0 +1,2 @@
+#! /bin/sh
+cp /www/cgi-bin/admin /www/cgi-bin/admin.bak
